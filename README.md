@@ -1,9 +1,5 @@
 # bedo-Development
 
-```diff
-- bedo Development
-```
-
 *-FiveM Developer Platformu*
 
 ```diff
