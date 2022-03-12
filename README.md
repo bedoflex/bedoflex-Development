@@ -4,7 +4,7 @@
 - bedo Development
 ```
 
-*-FiveM Developer Platformu
+-FiveM Developer Platformu
 
 ```diff
 | >Ücretsiz Rehberler
