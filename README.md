@@ -4,7 +4,7 @@
 - bedo Development
 ```
 
--FiveM Developer Platformu
+*-FiveM Developer Platformu*
 
 ```diff
 | >Ücretsiz Rehberler
@@ -19,6 +19,6 @@
 | >Script Destekleri
 | >Developer Hizmeti
 ```
-**Hepsi Ve Daha Fazlası İçin
+**Hepsi Ve Daha Fazlası İçin**
 
 https://discord.gg/2Rzu8Vc76P
