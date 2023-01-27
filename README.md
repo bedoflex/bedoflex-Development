@@ -1,4 +1,4 @@
-# bedo-Development
+# bedoflex-Development
 
 *-FiveM Developer Platformu*
 
@@ -17,4 +17,4 @@
 ```
 **Hepsi Ve Daha Fazlası İçin**
 
-https://discord.gg/2Rzu8Vc76P
+https://discord.gg/2X9sUWq4NR
